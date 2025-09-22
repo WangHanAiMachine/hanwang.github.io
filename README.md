@@ -11,7 +11,8 @@
 
 **PhD Year 3 Student**  
 
-I am a third-year PhD student at the Singapore University of Technology and Design (SUTD), supervised by Dr. Roy Ka-Wei Lee. My research focuses on multimodal AI and AI for social good. I joined SUTD in 2018 under the Senior Middle 2 (SM2) Scholarship, completed my bachelor’s degree in 2022 with the Top Student Award, and subsequently worked as a research assistant before starting my PhD in 2023. My work explores multimodal understanding for social applications, and I have interned at Tencent (2025) and published or submitted papers to venues including ACM MM, WWW, IJCAI, and AAAI.
+I am a third-year PhD student at the Singapore University of Technology and Design (SUTD), supervised by Dr. Roy Ka-Wei Lee. My research focuses on multimodal AI and AI for social good. I joined SUTD in 2018 under the Senior Middle 2 (SM2) Scholarship, completed my bachelor’s degree in 2022 with the Top Student Award, and subsequently worked as a research assistant before starting my PhD in 2023. My work explores multimodal understanding for social applications, and I have interned at Tencent (2025) and published or submitted papers to venues including ACM MM, WWW, IJCAI, and AAAI. Now aiming to explore more fundamental models for multimodal understanding.
+
 ✨ Current Plan: **Seeking collaborations and visiting scholar opportunities in streaming video understanding and Video-LLMs. Please feel free to reach out via email.**
 
 ---
@@ -63,8 +64,8 @@ I am a third-year PhD student at the Singapore University of Technology and Desi
 📄 [View My CV](cv.pdf)  
 
 *(Alternatively, list highlights of your CV directly here)*  
-- Education: PhD in ISTD, SUTD (2022–Present)  
-- Research Interests: Multimodal Video Understanding, Video-LLM, Hateful Content Detection  
+- Education: PhD in ISTD, SUTD (2023–Present)  
+- Research Interests: Multimodal Video Understanding, Video-LLM, Ai for Social
 - Skills: Python, PyTorch, Video Processing, Multimodal Modeling  
 
 ---
