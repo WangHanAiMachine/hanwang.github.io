@@ -53,7 +53,7 @@ My research focuses on bridging video, audio, and text for **fine-grained analys
 ## Contacts  
 
 📧 Emails:  
-- Primary: han_wang@sutd.edu.sg  
-- Secondary: hanwang.research@gmail.com  
+- Primary: han_wang@mymail.sutd.edu.sg  
+- Secondary: han_wang@sutd.edu.sg, hanw387@gmail.com
 
 ---
