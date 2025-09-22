@@ -1,7 +1,7 @@
 # CV  
 
 ## 🔗 Navigation
-[Home](index.md) | [Publications](publications.md) | [CV](cv.md) | [Contacts](contacts.md)
+[Home](README.md) | [Publications](publications.md) | [CV](cv.md) | [Contacts](contacts.md)
 
 📄 [View My Full CV](cv.pdf)
 
