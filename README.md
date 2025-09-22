@@ -3,7 +3,7 @@
 <img src="han_wang.png" alt="Han Wang" width="120" align="left" />
 
 ## 🔗 Navigation
-[Home](index.md) | [Publications](publications.md) | [CV](cv.md) | [Contacts](contacts.md)
+[Home](README.md) | [Publications](publications.md) | [CV](cv.md) | [Contacts](contacts.md)
 
 **PhD Year 3 Student**  
 
