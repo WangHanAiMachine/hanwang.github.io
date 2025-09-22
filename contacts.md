@@ -1,7 +1,7 @@
 # Contacts  
 
 ## 🔗 Navigation
-[Home](index.md) | [Publications](publications.md) | [CV](cv.md) | [Contacts](contacts.md)
+[Home](README.md) | [Publications](publications.md) | [CV](cv.md) | [Contacts](contacts.md)
 
 📧 **Emails:**  
 - Primary: han_wang@mymail.sutd.edu.sg  
