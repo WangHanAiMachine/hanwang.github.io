@@ -2,9 +2,9 @@
 
 ## 🔗 Navigation
 [Home](README.md) | [Publications](publications.md) | [CV](cv.md) | [Contacts](contacts.md)
+# Publications
 
 ## Selected Publications
-
 - **Wang, H.**, R. Y. Tan, & R. K. W. Lee.  
   *Cross-modal transfer from memes to videos: Addressing data scarcity in hateful video detection.*  
   In *Proceedings of the ACM Web Conference 2025 (WWW)*.
@@ -24,3 +24,7 @@
 - **Wang, H.**, M. S. Hee, M. R. Awal, K. T. W. Choo, & R. K. W. Lee.  
   *Evaluating GPT-3 generated explanations for hateful content moderation.*  
   In *The 32nd International Joint Conference on Artificial Intelligence 2023 (IJCAI)*.
+
+- **Wang, H.**, N. Prakash, N. K. Hoang, M. S. Hee, U. Naseem, & R. K. W. Lee.  
+  *Prompting large language models for topic modeling.*  
+  In *2023 IEEE International Conference on Big Data (BigData)*.
